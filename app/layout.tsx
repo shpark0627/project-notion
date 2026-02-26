@@ -16,12 +16,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Modern Web Starter Kit",
-  description: "Next.js 15 + TypeScript + Tailwind CSS v4 + shadcn/ui + lucide-react 스택을 소개하는 스타터킷 랜딩 페이지",
-  keywords: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+  title: "등산 코스 기록 블로그",
+  description: "Notion을 CMS로 활용한 등산 코스 기록 블로그",
+  keywords: ["등산", "코스", "블로그", "Notion"],
   openGraph: {
-    title: "Modern Web Starter Kit",
-    description: "개발자를 위한 모던 웹 개발 스택",
+    title: "등산 코스 기록 블로그",
+    description: "Notion 기반 등산 코스 정보 플랫폼",
   },
 };
 
